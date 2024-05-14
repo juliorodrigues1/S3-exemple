@@ -1,7 +1,7 @@
-package com.exemples3.config.Controller;
+package com.exemples3.Controller;
 
 import com.amazonaws.services.s3.model.S3Object;
-import com.exemples3.config.service.AwsService;
+import com.exemples3.service.AwsService;
 import jakarta.websocket.server.PathParam;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.MediaType;
