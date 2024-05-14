@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: exempleS3
+
+
+aws:
+  acces-key-id:
+  secret-access-key:
+  s3-region:
+  bucket-name:
